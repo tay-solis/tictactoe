@@ -1,0 +1,42 @@
+body{
+  text-align: center;
+  padding: 30px;
+  font-family: 'Do Hyeon', sans-serif;
+  letter-spacing: 2px;
+  width: 100%;
+}
+
+button{
+  border: solid white 0px;
+  height: 40px;
+  font-size: 20px;
+  padding: 10px;
+  color: white;
+  background: red;
+  font-family: 'Do Hyeon', sans-serif;
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+}
+
+div{
+  font-weight: 900;
+  font-size: 150px;
+  margin: 0 auto;
+}
+
+h1{
+  font-size: 45px;
+  margin: 6px;
+}
+
+.container{
+  max-width: 750px;
+  margin: 0 auto;
+}
+.square{
+  width: 30%;
+  margin: 1.66%;
+  background: red;
+  float: left;
+  color: white;
+}
